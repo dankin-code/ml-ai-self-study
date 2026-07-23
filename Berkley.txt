@@ -1,0 +1,72 @@
+
+https://em-executive.berkeley.edu/professional-certificate-machine-learning-artificial-intelligence
+
+How Is the Berkeley Executive Education Professional Certificate in ML and AI Curriculum Structured?
+The Professional Certificate in Machine Learning and Artificial Intelligence curriculum is structured across four learning phases covering ML/AI foundations, ML techniques, advanced ML/AI topics, and generative AI applications.
+
+The program combines recorded faculty lectures, hands-on coding activities, practical applications, discussions, quizzes, and a capstone project to help you develop and apply ML and AI skills in real-world contexts.
+1
+Part 1: Foundations of ML/AI
+Your learning journey will commence with exploring the basic concepts of ML/AI, industry-standard notations, and real-world contexts for the data science life cycle. It will then progress to drawing business conclusions from data sets and visualizations.
+
+Module 1: Introduction to Machine Learning
+
+Module 2: Fundamentals of Statistics and Distribution Functions
+
+Module 3: Introduction to Data Analytics
+
+Module 4: Fundamentals of Data Analytics
+
+Module 5: Practical Applications I
+
+2
+Part 2: ML/AI Techniques
+In this section, you will gain hands-on experience with coding in Python to create k-means algorithms and apply functions. You will also learn how to predict outcomes using multiple linear regression models, create visual decision trees, and interpret various kinds of ML/AI decision models.
+
+Module 6: Data Clustering and Principal Component Analysis (PCA) 
+
+Module 7: Linear and Multiple Regressions
+
+Module 8: Feature Engineering and Overfitting
+
+Module 9: Model Selection and Regularization
+
+Module 10: Time Series Analysis and Forecasting
+
+Module 11: Practical Application II
+
+Module 12: Classification and K-Nearest Neighbors
+
+
+3
+Part 3: Advanced ML/AI Topics
+In this section, you will gain a deeper understanding of advanced ML/Al concepts, including NLP, deep neural networks, and generative AI. You will also develop a professional GitHub portfolio showcasing your skills to prospective employers.
+
+Module 13: Logistic Regression
+
+Module 14: Decision Trees
+
+Module 15: Gradient Descent and Optimization
+
+Module 16: Classifying Nonlinear Features
+
+Module 17: Practical Application III
+
+Module 18: Natural Language Processing
+
+Module 19: Recommendation Systems
+
+Module 20: Ensemble Techniques
+
+Module 21: Deep Neural Networks I
+
+Module 22: Deep Neural Networks II
+
+4
+Part 4: Generative AI and Capstone Project
+In this final part of the curriculum, you will gain a clear understanding of how generative AI works and how to explore its practical applications. You will apply your learning through an independent capstone project that addresses a real-world ML/AI challenge and present your findings and portfolio on GitHub to demonstrate your readiness for applied ML/AI roles.
+
+Module 23: Introduction to Generative AI
+
+Module 24: Capstone Project
+
